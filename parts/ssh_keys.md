@@ -60,4 +60,4 @@ Alternatively, you can remove the key from the remote as well by deleting the co
 
 [Previous](ssh_exercise.md)
 
-[Next](scp_exercise.md)
+[Next](ssh_keys_exercise.md)
