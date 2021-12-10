@@ -48,5 +48,3 @@ If you close the session window by clicking the close button (X or whatever), th
 Depending on how long it takes for the remote to respond to the suspend signal, the session window may take quite some time to actually close, especially on slower networks.
 
 [Previous](tmux_exercise.md)
-
-[Next](x2go_exercise.md)
