@@ -5,6 +5,6 @@
 2. make a new tmux session and connect to it
 3. once inside of the session, create some windows
 
-[Previous](sshfs_exercise.md)
+[Previous](tmux.md)
 
 [Next](x2go.md)
