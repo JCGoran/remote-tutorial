@@ -12,7 +12,7 @@ Much like SSH, you'll need:
 
 When you first start x2go, you should be greeted by a prompt like the one below to make a new session:
 
-[session_window.png](session_window.png)
+![session_window.png](session_window.png)
 
 The only mandatory parameters in the above are the _Host_ and the _Login_ fields, which correspond to the hostname and username when using SSH.
 
@@ -22,17 +22,17 @@ The only other option that should be changed from the default is the _Session ty
 
 Once you fill out the session preferences and click _Ok_, you should see something like this:
 
-[main_window.png](main_window.png)
+![main_window.png](main_window.png)
 
 Once you connect to a remote, you should see something like this:
 
-[x2go_connection.png](x2go_connection.png)
+![x2go_connection.png](x2go_connection.png)
 
 To add a session, click _Session_ → _New session ..._, which will then open up a new window, just like the one when you first started x2go.
 
 When you actually launch a session, the x2go main window should look something like this:
 
-[x2go_while_connected.png](x2go_while_connected.png)
+![x2go_while_connected.png](x2go_while_connected.png)
 
 From left to right, the three icons in the lower-right corner of the silver "bubble" denote:
 
