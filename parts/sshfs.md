@@ -21,6 +21,12 @@ When you're done, you can "disconnect the directory" via:
 umount [ORIGIN]
 ```
 
+Alternatively, if the above for some reason doesn't work:
+
+```bash
+fusermount -u [ORIGIN]
+```
+
 [Previous](scp_exercise.md)
 
-[Next](tmux.md)
+[Next](sshfs_exercise.md)

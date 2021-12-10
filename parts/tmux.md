@@ -75,6 +75,6 @@ Your revised workflow using SSH and tmux should look like the following:
 If working on a local machine instead, just skip steps 1 and 4.
 
 
-[Previous](sshfs.md)
+[Previous](sshfs_exercise.md)
 
 [Next](tmux_exercise.md)
