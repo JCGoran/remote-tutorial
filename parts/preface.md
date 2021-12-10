@@ -20,3 +20,5 @@ A plus sign between them denotes that the keys should be pressed simultaneously.
 * (_optional_) x2go ([general installation instructions](https://wiki.x2go.org/doku.php/doc:installation:x2goclient); on Debian, install package `x2go-client`)
 
 [^apple]: On Apple devices, instances of <kbd>Ctrl</kbd> should _probably_ be replaced with <kbd>⌘</kbd>
+
+[Next](ssh.md)

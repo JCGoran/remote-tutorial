@@ -45,9 +45,6 @@ ssh userK@[HOSTNAME] [COMMAND]
 
 ![ssh_schematic](ssh_schematic.png)
 
-<p style="text-align:left;">
-    [Previous](preface.md)
-    <span style="float:right;">
-    [Next](ssh_exercise.md)
-    </span>
-</p>
+[Previous](preface.md)
+
+[Next](ssh_exercise.md)
