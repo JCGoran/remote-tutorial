@@ -52,7 +52,7 @@ set -g mouse-select-pane on
 set -g mouse-resize-pane on
 ```
 
-* makes a new session and connect (attach) to it: `tmux new -s [NAME]`, where `[NAME]` is the name you want to call the session (if not specified, will default to a number). By default, tmux starts a new session in the current working directory (whatever `pwd` is)
+* make a new session and connect (attach) to it: `tmux new -s [NAME]`, where `[NAME]` is the name you want to call the session (if not specified, will default to a number). By default, tmux starts a new session in the current working directory (whatever `pwd` is)
 * disconnect from the session: once inside of a session, press <kbd>Ctrl</kbd>+<kbd>B</kbd>, followed by <kbd>D</kbd>. Alternatively, write `tmux detach` while attached to a session
 * list running sessions: run `tmux ls`. If there aren't any sessions running, tmux will report `No such file or directory` or `No server running on [PATH]`
 * re-attach to an existing session: `tmux a -t [NAME]`
